@@ -14,3 +14,4 @@ and order trends.
 * Sales how an overall increasing trend with fluctations
 * West region generataes highest revenue
 * Technology category contributes most sales
+  
